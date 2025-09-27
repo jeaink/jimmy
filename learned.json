@@ -1,0 +1,118 @@
+{
+  "taught": [],
+  "templates": [
+    {
+      "user_template": "hello",
+      "reply_template": "I'm learning from you, {NAME}. {NAME} said: 'hello'.",
+      "captures": {
+        "{NAME}": [
+          "Father",
+          "You"
+        ]
+      },
+      "uses": 3,
+      "added": "2025-09-01 13:47:57"
+    },
+    {
+      "user_template": "okay",
+      "reply_template": "I'm learning from you, {NAME}. {NAME} said: 'okay'.",
+      "captures": {
+        "{NAME}": [
+          "Father",
+          "You"
+        ]
+      },
+      "uses": 0,
+      "added": "2025-09-01 13:48:43"
+    },
+    {
+      "user_template": "how are you",
+      "reply_template": "i remember I said: 'how are I doing'. let's talk more about that!",
+      "captures": {},
+      "uses": 0,
+      "added": "2025-09-01 13:48:54"
+    },
+    {
+      "user_template": "whoa whoa whoa whoa whoa whoa my a on my robot is actually working",
+      "reply_template": "I'm learning from you, {NAME}. {NAME} said: 'whoa whoa whoa whoa whoa whoa my a on my robot is actually working'.",
+      "captures": {
+        "{NAME}": [
+          "Father",
+          "You"
+        ]
+      },
+      "uses": 0,
+      "added": "2025-09-01 13:49:09"
+    },
+    {
+      "user_template": "okay let's talk about how are you",
+      "reply_template": "i remember i said: 'how are i doing'. let's talk more about that!",
+      "captures": {},
+      "uses": 0,
+      "added": "2025-09-01 13:49:31"
+    },
+    {
+      "user_template": "you said hello",
+      "reply_template": "I'm learning from you, {NAME}. {NAME} said: 'you said hello'.",
+      "captures": {
+        "{NAME}": [
+          "Father",
+          "You"
+        ]
+      },
+      "uses": 0,
+      "added": "2025-09-01 14:09:27"
+    },
+    {
+      "user_template": "{NAME}",
+      "reply_template": "I'm learning from you, {NAME}. {NAME} said: '{NAME}'.",
+      "captures": {
+        "{NAME}": [
+          "Father",
+          "You",
+          "Niger Niger Niger Niger Niger Niger Niger"
+        ]
+      },
+      "uses": 1,
+      "added": "2025-09-01 14:09:38"
+    },
+    {
+      "user_template": "no no no no no no no no no no no no no no no no no no no",
+      "reply_template": "{NAME} said a lot—what's the most important part for me to help with.",
+      "captures": {
+        "{NAME}": [
+          "You"
+        ]
+      },
+      "uses": 0,
+      "added": "2025-09-01 14:09:46"
+    },
+    {
+      "user_template": "don't say {NAME}",
+      "reply_template": "I'm learning from you, {NAME}. {NAME} said: 'don't say {NAME}'.",
+      "captures": {
+        "{NAME}": [
+          "Father",
+          "You",
+          "Niger"
+        ]
+      },
+      "uses": 0,
+      "added": "2025-09-01 14:09:59"
+    },
+    {
+      "user_template": "set a alarm what's the most important part of {NAME}",
+      "reply_template": "I'm learning from you, {NAME}. {NAME} said: 'set a alarm what's the most important part of {NAME}'.",
+      "captures": {
+        "{NAME}": [
+          "Father",
+          "You",
+          "Walmart"
+        ]
+      },
+      "uses": 0,
+      "added": "2025-09-01 14:10:30"
+    }
+  ],
+  "rules": []
+}
