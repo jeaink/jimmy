@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""
-mimic_orb_final_v3.py
-Polished Mimic Orb GUI (v3)
-- Immediate persistent memory writes (every turn saved)
-- Loads past memory into transcript on startup
-- Automatic TTS (pyttsx3) with no GUI controls
-- Merge AI core memory, export memory, autosave backup
-- Non-blocking model calls, better error handling
-"""
-
 import os
 import json
 import time
